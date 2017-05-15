@@ -9,7 +9,7 @@
 <body>
 
 <center>
-<h2>销售系统guitarV1</h2>
+<h2>销售系统guitarV2</h2>
 请输入查询条件：<br /><br />
 <form action="FindGuitar" method="post">
 	<label>builder:&nbsp;&nbsp;</label><input type="text" name="builder" /><br /><br />
